@@ -1,0 +1,4 @@
+.done_task {
+    text-decoration: line-through;
+    color: rgba(255, 166, 0, 0.488)
+}
